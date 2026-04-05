@@ -78,8 +78,7 @@ and 9 business intelligence analysis queries.
 
 ## 🚀 How to Run
 1. Open **MySQL Workbench**
-2. Open `sales_analysis.sql`
-3. Run the full script top to bottom
-4. All tables, data, and analysis queries will execute automatically
+2. Run the full script top to bottom
+3. All tables, data, and analysis queries will execute automatically
 
 ---
